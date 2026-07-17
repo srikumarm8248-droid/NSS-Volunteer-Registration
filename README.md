@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:D4AF37&height=200&section=header&text=SK%20STARK&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Sri%20Kumar%20M%20%7C%20JOJO%20Digital&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:D4AF37&height=200&section=header&text=NSS%20VOLENTEERS&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Sri%20Kumar%20M%20%7C%20JOJO%20Digital&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://srikumarm8248-droid.github.io"><img src="https://readme-typing-svg.demolab.com?font=Syne&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Agentic+AI+Freelancer+%7C+Web+%26+App+Builder;NSS+Programme+Officer+%40+M.G.R.+College;JOJO+Digital+-+Hosur%2C+Tamil+Nadu;Python+%2B+React+Native+%2B+AI+Automation" alt="Typing SVG" /></a>
 
